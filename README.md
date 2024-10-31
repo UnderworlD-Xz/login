@@ -1,2 +1,2 @@
 # login
-usesr &amp; pass
+user &amp; pass
