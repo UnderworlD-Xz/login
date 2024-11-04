@@ -1,6 +1,6 @@
 # login
 form
-![form].(https://raw.githubusercontent.com/UnderworlD-Xz/login/refs/heads/main/form/screenshot.jpg)
+![form](https://raw.githubusercontent.com/UnderworlD-Xz/login/refs/heads/main/form/screenshot.jpg)
 
 
 form1
