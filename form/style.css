@@ -7,6 +7,9 @@
       height: 100vh;
       margin: 0;
     }
+    h2 {
+      text-align: center;
+    }
     .login-container {
       background-color: white;
       padding: 20px;
@@ -22,7 +25,7 @@
     }
     input[type="text"], input[type="password"] {
       display: block;
-      width: calc(100% - 20px); /* Supaya rata kiri-kanan */
+      width: 100%;
       padding: 10px;
       margin-bottom: 15px;
       border: 1px solid #ccc;
