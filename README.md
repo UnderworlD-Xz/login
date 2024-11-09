@@ -1,5 +1,4 @@
 # login
-user & pass
 form
 ![form](https://raw.githubusercontent.com/UnderworlD-Xz/login/refs/heads/main/form/screenshot.jpg)
 
