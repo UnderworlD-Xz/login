@@ -1,9 +1,13 @@
-# login
-form
-![form](https://raw.githubusercontent.com/UnderworlD-Xz/login/refs/heads/main/form/screenshot.jpg)
+# Responsive Login & Registration Form
+## [Watch it on youtube](https://youtu.be/aHA50b0jLCo)
+### Responsive Login & Registration Form
 
+- Responsive Login & Registration Form Using HTML CSS & JavaScript
+- Includes a login form and registration form.
+- With animations when changing forms.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-form1
-![2](https://raw.githubusercontent.com/UnderworlD-Xz/login/refs/heads/main/form1/screenshot1.jpg)
+💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
-form2
+![preview img](/preview.png)
